@@ -40,42 +40,15 @@
         "nixpkgs": [
           "nixpkgs"
         ],
-        "nuuid-master": "nuuid-master"
-      },
-      "locked": {
-        "lastModified": 1648107932,
-        "narHash": "sha256-Ic++u79laHbHKFiUYSjDSBHlAwqbkAUS6gHYIi8CuhE=",
-        "owner": "nim-nix-pkgs",
-        "repo": "nuuid",
-        "rev": "da6f29ca03532a4e1275199dd365c376b897d0e4",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "nuuid",
-        "type": "github"
-      }
-    },
-    "nuuid-master": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "nuuid",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "nuuid",
-          "nixpkgs"
-        ],
         "src-nuuid-master": "src-nuuid-master"
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1648107932,
-        "narHash": "sha256-Ic++u79laHbHKFiUYSjDSBHlAwqbkAUS6gHYIi8CuhE=",
+        "lastModified": 1648163419,
+        "narHash": "sha256-sOddXKDfd61swhl/g99icx2hDWBEsnKgixdqqZbjaCY=",
         "owner": "nim-nix-pkgs",
         "repo": "nuuid",
-        "rev": "da6f29ca03532a4e1275199dd365c376b897d0e4",
+        "rev": "2a33a7d9fcb3b4032ab600b22174a7c9ed6e990d",
         "type": "github"
       },
       "original": {
