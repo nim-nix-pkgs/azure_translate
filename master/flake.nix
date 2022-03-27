@@ -11,6 +11,7 @@
   inputs.src-azure_translate-master.ref   = "refs/heads/master";
   inputs.src-azure_translate-master.owner = "williamhatcher";
   inputs.src-azure_translate-master.repo  = "azure_translate";
+  inputs.src-azure_translate-master.dir   = "";
   inputs.src-azure_translate-master.type  = "github";
   
   inputs."nuuid".owner = "nim-nix-pkgs";
