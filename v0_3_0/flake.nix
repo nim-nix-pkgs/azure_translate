@@ -11,7 +11,6 @@
   inputs.src-azure_translate-v0_3_0.ref   = "refs/tags/v0.3.0";
   inputs.src-azure_translate-v0_3_0.owner = "williamhatcher";
   inputs.src-azure_translate-v0_3_0.repo  = "azure_translate";
-  inputs.src-azure_translate-v0_3_0.dir   = "";
   inputs.src-azure_translate-v0_3_0.type  = "github";
   
   inputs."nuuid".owner = "nim-nix-pkgs";
